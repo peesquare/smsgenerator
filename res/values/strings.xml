@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SMSGenerator</string>
+    <string name="app_name">SMS Generator</string>
     <string name="action_settings">Settings</string>
+    <string name="enter_number">Enrer number</string>
+    <string name="choose_folder_name">Choose folder name</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="options">Options</string>
+    <string name="number_of_conversations">Number of conversations</string>
+    <string name="sms_per_conversation">SMS per conversation</string>
 
 </resources>
